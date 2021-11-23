@@ -25,10 +25,15 @@ Given that the objective of this project is to predict the price of a house, whi
 
 **Group Members**: 
 
-Sarah Alzahrani
-Shrouq Alharbi
-Rawan  Alsherhri 
-Khalid Alsuhaimi 
-Asmaa Alzahrani 
-Amani Almutairi
+ 1- Sarah Alzahrani
+ 
+ 2- Shrouq Alharbi
+ 
+ 3- Rawan  Alsherhri 
+ 
+ 4- Khalid Alsuhaimi 
+ 
+ 5- Asmaa Alzahrani 
+ 
+ 6- Amani Almutairi
 
